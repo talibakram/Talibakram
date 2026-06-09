@@ -21,7 +21,6 @@ Currently, I am expanding my horizons from terminal-based core logic application
 * 🌱 **Frontend Technologies** (Next on the roadmap!)
 
 **Tools & Environment:**
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /> **Linux** (Arch Linux / Fedora Enthusiast)
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /> **Git & GitHub**
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  /> **VS Code**
 
