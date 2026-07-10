@@ -1,4 +1,4 @@
-# Hi there, I'm Talib! 👋 (a.k.a The Coder Boy)
+# Hi there, I'm Talib! 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&width=435&lines=1st-Year+Computer+Science+Student;Python+Developer;Aspiring+Full-Stack+Engineer)](https://git.io/typing-svg)
 
